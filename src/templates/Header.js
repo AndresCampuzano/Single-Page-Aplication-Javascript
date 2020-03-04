@@ -4,9 +4,10 @@ const Header = () => {
             <div class="Header-logo">
                 <h1>
                     <a href="/">
-                        100tifi.co
+                        Rick and Morty API
                     </a>
                 </h1>
+                <p>by Andrés Campuzano</p>
             </div>
             <div class="header-nav">
                 <a href="#/about">
