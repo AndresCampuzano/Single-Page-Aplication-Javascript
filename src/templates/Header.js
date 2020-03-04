@@ -9,7 +9,7 @@ const Header = () => {
                 </h1>
                 <p>by Andrés Campuzano</p>
             </div>
-            <div class="header-nav">
+            <div class="header-nav" style="font-weight: bold;">
                 <a href="#/about">
                     About
                 </a>
